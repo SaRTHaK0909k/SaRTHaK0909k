@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Ganure</h1>
-<h3 align="center">A full Stack developer and CP enthusiast from India</h3>
+<h3 align="center">A front end developer and CP enthusiast from India</h3>
 
 
 🎓 I am a sophomore at IIT Lucknow pursuing Computer Science & Bussiness <br>
@@ -24,4 +24,4 @@
 
 <h1>All About Hacktoberfest 2023 </h1>
 
-[![An image of SaRTHaK0909K's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@sarthak0909k)](https://www.holopin.io/@sarthak0909k)
+[![An image of SaRTHaK0909K's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@sarthak0909k#)](https://www.holopin.io/@sarthak0909k#)
