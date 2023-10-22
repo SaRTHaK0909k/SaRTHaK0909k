@@ -24,4 +24,4 @@
 
 <h1>All About Hacktoberfest 2023 </h1>
 
-[![An image of SaRTHaK0909K's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@sarthak0909k#)](https://www.holopin.io/@sarthak0909k#)
+[![An image of @sarthak0909k's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarthak0909k)](https://holopin.io/@sarthak0909k)
