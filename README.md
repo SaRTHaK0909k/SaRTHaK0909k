@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Ganure</h1>
-<h3 align="center">A front end developer and CP enthusiast from India</h3>
+<h3 align="center">A full stack developer and CP enthusiast from India</h3>
 
 
 🎓 I am a sophomore at IIT Lucknow pursuing Computer Science & Bussiness <br>
